@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    Programaria - EuProgramo
+    EuProgramo - Programaria
 </h1>
 
 <p align="center">
@@ -21,8 +21,6 @@ Repositório dedicado a resoluções de todos os exercícios e desafios proposto
 
 Para ter acesso a este conteúdo, acesse [Programaria](https://www.programaria.org/cursos/euprogramo/)
 
-*Todos os direitos reservados a <a href="https://www.programaria.org/cursos/euprogramo/">Programaria</a>*
-
 ## 💻 Projeto
 
 O projeto **Blog Mulheres Que Fizeram História na Tecnologia** é um Website em formato de blog simples com rolagem vertical, menu e formulário em JavaScript. Foram adicionadas novas funções e uma nova nova palheta de cores.
@@ -39,8 +37,6 @@ O projeto foi desenvolvido a partir das tecnologias:
 *Repository dedicated to solving all exercises and challenges proposed in the EuProgramo Course, offered by the **Programaria** initiative, designed by **Iana Chan**, taught by Professor and Pedagogical Coordinator **Mayra Oliveira** and Professor and Developer **Dani Castilho**, in November 2020.
 
 *To access this content, visit [Programaria](https://www.programaria.org/cursos/euprogramo/)*
-
-*All rights reserved to <a href="https://www.programaria.org/cursos/euprogramo/">Programaria</a>*
 
 ## 💻 Project
 
