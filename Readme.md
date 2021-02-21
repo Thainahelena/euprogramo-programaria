@@ -34,13 +34,13 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 
 ## 📚 About
-*Repository dedicated to solving all exercises and challenges proposed in the EuProgramo Course, offered by the **Programaria** initiative, designed by **Iana Chan**, taught by Professor and Pedagogical Coordinator **Mayra Oliveira** and Professor and Developer **Dani Castilho**, in November 2020.
+*Repository dedicated to solving all exercises and challenges proposed in the EuProgramo Course, offered by the **Programaria** initiative, designed by **Iana Chan**, taught by Professor and Pedagogical Coordinator **Mayra Oliveira** and Professor and Developer **Dani Castilho**, in November 2020.*
 
 *To access this content, visit [Programaria](https://www.programaria.org/cursos/euprogramo/)*
 
 ## 💻 Project
 
-The **Blog Women Who Made History in Technology** project is a website in a simple blog format with vertical scrolling, menu and JavaScript form. New functions and a new color palette have been added.
+*The **Blog Women Who Made History in Technology** project is a website in a simple blog format with vertical scrolling, menu and JavaScript form. New functions and a new color palette have been added.*
 
 ## 🚀 Technologies Used:
 *The project was developed based on technologies:*
